@@ -43,7 +43,7 @@
     "fetch-blob": "^3.1.2"
   },
   "devDependencies": {
-    "@types/google-closure-compiler": "^0.0.19",
+    "@types/google-closure-compiler": "^0.0.22",
     "@types/node": "^16.7.10",
     "google-closure-compiler": "^20210808.0.0"
   }
