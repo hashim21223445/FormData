@@ -44,7 +44,7 @@
   },
   "devDependencies": {
     "@types/google-closure-compiler": "^0.0.19",
-    "@types/node": "^16.7.10",
+    "@types/node": "^16.18.101",
     "google-closure-compiler": "^20210808.0.0"
   }
 }
